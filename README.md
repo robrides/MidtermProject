@@ -69,4 +69,4 @@ Team availability, making sure everyone is available for the duration of the spr
 
 ### Contributions and Issues
 
-This webapp was built for educational purposes.  Feel free to open issues as they are found but this repository is not actively monitored.
+This webapp was built for educational purposes.  Feel free to open issues as they are found but this repository is not actively monitored. The developers can not offer support beyond the initial release.
